@@ -1,0 +1,15 @@
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\DataAccess0\bin\Debug\net6.0\DataAccess0.deps.json
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\DataAccess0\bin\Debug\net6.0\DataAccess0.dll
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\DataAccess0\bin\Debug\net6.0\DataAccess0.pdb
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\DataAccess0\bin\Debug\net6.0\Entities.dll
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\DataAccess0\bin\Debug\net6.0\Entities.pdb
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\DataAccess0\obj\Debug\net6.0\DataAccess0.csproj.AssemblyReference.cache
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\DataAccess0\obj\Debug\net6.0\DataAccess0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\DataAccess0\obj\Debug\net6.0\DataAccess0.AssemblyInfoInputs.cache
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\DataAccess0\obj\Debug\net6.0\DataAccess0.AssemblyInfo.cs
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\DataAccess0\obj\Debug\net6.0\DataAccess0.csproj.CoreCompileInputs.cache
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\DataAccess0\obj\Debug\net6.0\DataAccess0.csproj.CopyComplete
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\DataAccess0\obj\Debug\net6.0\DataAccess0.dll
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\DataAccess0\obj\Debug\net6.0\refint\DataAccess0.dll
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\DataAccess0\obj\Debug\net6.0\DataAccess0.pdb
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\DataAccess0\obj\Debug\net6.0\ref\DataAccess0.dll

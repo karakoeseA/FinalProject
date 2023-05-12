@@ -1,0 +1,17 @@
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\Business\bin\Debug\net6.0\Business.dll
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\Business\bin\Debug\net6.0\DataAccess0.dll
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\Business\bin\Debug\net6.0\DataAccess0.pdb
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\Business\obj\Debug\net6.0\Business.dll
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\Ali yasin karaköse\source\repos\FinalProject\Business\obj\Debug\net6.0\ref\Business.dll
